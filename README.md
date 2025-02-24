@@ -38,8 +38,6 @@
 ## 📫 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-📌 **Espacio para agregar más información relevante**
 
----
 
 ⭐ ¡Gracias por visitar mi perfil! Me encanta conectar con personas apasionadas por la tecnología. No dudes en contactarme. 😊
