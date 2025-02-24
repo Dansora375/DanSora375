@@ -13,7 +13,7 @@
 <p align="left">🚀 Desde que descubrí el mundo de la tecnología, me ha encantado y apasionado crear soluciones a partir de ella.<br>💡 Me considero una persona creativo, con capacidad de adaptación y trabajo en equipo.Participé durante el programa Misión TIC 2022, en el que desarrollamos dos proyectos en equipo del lado Front-end y Back_end, con tecnologias como React js y Mongoose.<br>🎯 Metas: A corto plazo, quiero aprender mas a fondo desarrollo backend y comenzar una hoja de ruta para Back-End.Mi objetivo es sumergirme en este mundo para completar mi formación como desarrolladora Full Stack y contribuir a proyectos innovadores que hagan la tecnología más accesible.</p>
 
 ## 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-soracipa-torres-042920209/)
 
 
 ###
