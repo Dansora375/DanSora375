@@ -31,8 +31,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo" />
 </div>
 
@@ -66,5 +64,32 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
 </div>
 
+###
+
+<h4 align="left">⚙️ Control de versiones</h4>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+</div>
+
+---
+
+<h2 align="left">🚀 Proyectos Destacados</h2>
+
+- [AgroConecta](https://github.com/SwEng2-2025i-nutrias/Agroconecta-Front-end): Plataforma web para conectar campesinos con compradores.  
+- [UN Chaza](https://github.com/Dansora375/Proyecto_IngeSoft): Aplicación para visibilizar negocios dentro del campus universitario.  
+- [Django-React CRUD](https://github.com/Dansora375/Crud_Django_React): Sistema CRUD fullstack con Django REST y React.  
+
+---
+
+<h2 align="left">🌱 Actualmente aprendiendo</h2>
+
+- Profundizando en Django y bases de datos SQL (MariaDB/MySQL).  
+- Buenas prácticas de arquitectura y pruebas automatizadas.  
+- Fundamentos de AWS (EC2, S3).  
