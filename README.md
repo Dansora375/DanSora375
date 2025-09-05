@@ -88,8 +88,3 @@
 
 ---
 
-<h2 align="left">🌱 Actualmente aprendiendo</h2>
-
-- Profundizando en Django y bases de datos SQL (MariaDB/MySQL).  
-- Buenas prácticas de arquitectura y pruebas automatizadas.  
-- Fundamentos de AWS (EC2, S3).  
